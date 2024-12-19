@@ -327,7 +327,6 @@
 		5DEC2F6C23BC7D920043BB86 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				5DEC2F7323BC7DE50043BB86 /* Xibs */,
 				5DEC2F7223BC7DD60043BB86 /* Stodyboards */,
 				5DEC2F7123BC7DC90043BB86 /* Controllers */,
 			);
@@ -394,13 +393,6 @@
 				5D3F11F223BA5CC700AAB407 /* Main.storyboard */,
 			);
 			path = Stodyboards;
-			sourceTree = "<group>";
-		};
-		5DEC2F7323BC7DE50043BB86 /* Xibs */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Xibs;
 			sourceTree = "<group>";
 		};
 		5DEC2F7623BC7E670043BB86 /* AppConst */ = {

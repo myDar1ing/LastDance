@@ -1,10 +1,3 @@
-//
-//  HeaderCellWithSearch.swift
-//  SpotifyClone
-//
-//  Created by JAYANTA GOGOI on 1/21/20.
-//  Copyright © 2020 JAYANTA GOGOI. All rights reserved.
-//
 
 import UIKit
 

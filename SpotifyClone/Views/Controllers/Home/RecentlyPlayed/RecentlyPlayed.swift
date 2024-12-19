@@ -1,10 +1,3 @@
-//
-//  RecentlyPlayed.swift
-//  SpotifyClone
-//
-//  Created by JAYANTA GOGOI on 1/2/20.
-//  Copyright © 2020 JAYANTA GOGOI. All rights reserved.
-//
 
 import UIKit
 
